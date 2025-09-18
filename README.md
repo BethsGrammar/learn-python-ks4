@@ -22,7 +22,7 @@ or
 
 
 ## 1 The Basics
-1. printing [[slides]](https://docs.google.com/presentation/d/1os1vxBUT59i1xc0ldanfXTFst1T5APioZpWi5VAPzq8/edit?usp=sharing) [[exercise]](http://nbviewer.jupyter.org/github/BethsGrammar/learn-python-ks4/blob/master/notebooks/exercises/01_01_printing.ipynb) --> <a href="https://colab.research.google.com/github/BethsGrammar/learn-python-ks4/blob/master/notebooks/exercises/01_01_printing.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
+1. printing [[slides]](https://docs.google.com/presentation/d/1IigjT8F3cwtTJ1J2rqnYMuR7anbVL9KfzerLczf3dYU/edit?usp=sharing) [[exercise]](http://nbviewer.jupyter.org/github/BethsGrammar/learn-python-ks4/blob/main/notebooks/exercises/01_01_printing.ipynb) --> <a href="https://colab.research.google.com/github/BethsGrammar/learn-python-ks4/blob/main/notebooks/exercises/01_01_printing.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
 
 ## 2 Loops / Iteration
 
